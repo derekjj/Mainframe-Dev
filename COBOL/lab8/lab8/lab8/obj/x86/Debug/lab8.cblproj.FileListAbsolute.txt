@@ -1,0 +1,6 @@
+C:\Dropbox\private\School\Winter2016\Man\lab8\lab8\lab8\bin\x86\Debug\lab8.exe
+C:\Dropbox\private\School\Winter2016\Man\lab8\lab8\lab8\obj\x86\Debug\lab8.cblprojResolveAssemblyReference.cache
+C:\Dropbox\private\School\Winter2016\Man\lab8\lab8\lab8\obj\x86\Debug\lab8.exe
+C:\Dropbox\private\School\2016 Winter\Man\lab8\lab8\lab8\bin\x86\Debug\lab8.exe
+C:\Dropbox\private\School\2016 Winter\Man\lab8\lab8\lab8\obj\x86\Debug\lab8.cblprojResolveAssemblyReference.cache
+C:\Dropbox\private\School\2016 Winter\Man\lab8\lab8\lab8\obj\x86\Debug\lab8.exe

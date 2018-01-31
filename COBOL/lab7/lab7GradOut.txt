@@ -1,0 +1,24 @@
+    SAMPLE, LAB 6                                                                    141018     10085342
+
+                                              GRADUATE SALARY REPORT                                     PAGE  1
+
+ EMP      EMP                              PRESENT   INCREASE    PAY           NEW          BUDGET      BUDGET
+ NUM      NAME           YRS  POSITION     SALARY       %        INCREASE      SALARY        EST         DIFF
+ ---      ----           ---  --------     -------   --------    --------      ------       ------      ------
+ 030  ALLDREN RUTH        21  ANALYST      20,200.00    11.9%    $2,403.80+  $ 22,603.80  $ 22,000.00    -603.80
+ 185  DONNEMAN THOMAS      6  PROG          4,230.09     6.7%      $283.41+  $  4,513.50  $  4,600.00      86.50
+ 325  HATFIELD MARK        1               11,220.02                 $0.00+  $ 11,220.02  $ 11,000.00    -220.02
+ 730  REEDE OWEN           9  SEN-PROG      5,550.10     9.3%      $516.15+  $  6,066.25  $  6,200.00     133.75
+ 111  CARTOLER VIOLET      2                9,980.07                 $0.00+  $  9,980.07  $ 10,000.00      19.93
+---
+---
+---   20 LINES PER PAGE
+---
+--- 
+ 505  LAMBERT JERRY        1               40,010.04                 $0.00+  $ 40,010.04  $ 40,000.00     -10.04
+ 215  EDSON WILBUR         6  PROG         70,500.08     6.7%    $4,723.50+  $ 75,223.58  $ 80,000.00   4,776.42
+
+ AVERAGE GRAD INCREASES:   ANALYST =    ZZ,ZZ9.99    SEN PROG =    ZZ,ZZ9.99
+                           PROG    =    ZZ,ZZ9.99
+
+ TOTAL GRAD BUDGET DIFFERENCE:  $ZZ,ZZ9.99- 

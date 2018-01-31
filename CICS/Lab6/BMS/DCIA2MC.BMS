@@ -1,0 +1,63 @@
+DCIA2MC  DFHMSD TYPE=&SYSPARM,MODE=INOUT,TERM=ALL,                     *
+               LANG=COBOL,TIOAPFX=YES,CTRL=FREEKB,                     *
+               MAPATTS=(COLOR,HILIGHT),DSATTS=(COLOR,HILIGHT)
+MAP1     DFHMDI SIZE=(24,80),LINE=1,COLUMN=1
+         DFHMDF POS=(3,16),LENGTH=44,                                  *
+               INITIAL='C R E D I T   A C C O U N T   E N T R Y',      *
+               ATTRB=(ASKIP,NORM),COLOR=GREEN
+         DFHMDF POS=(4,16),LENGTH=44,                                  *
+               INITIAL='=======================================',      *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+         DFHMDF POS=(3,5),LENGTH=5,INITIAL='DEREK',                    *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+         DFHMDF POS=(4,5),LENGTH=8,INITIAL='JOHNSTON',                 *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(6,17),LENGTH=14,INITIAL='ACCT. NUMBER :',         *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+ACCTNO   DFHMDF POS=(6,32),LENGTH=5,ATTRB=(UNPROT,IC,FSET),            *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(6,38),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(8,24),LENGTH=7,INITIAL='TITLE :',                 *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+TITL     DFHMDF POS=(8,32),LENGTH=4,ATTRB=(UNPROT,FSET),               *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(8,37),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(9,19),LENGTH=12,INITIAL='FIRST NAME :',           *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+FNAME    DFHMDF POS=(9,32),LENGTH=15,ATTRB=(UNPROT,FSET),              *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(9,48),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(10,21),LENGTH=10,INITIAL='SIR NAME :',            *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+SNAME    DFHMDF POS=(10,32),LENGTH=15,ATTRB=(UNPROT,FSET),             *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(10,48),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(12,22),LENGTH=9,INITIAL='ADDRESS :',              *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+ADDR1    DFHMDF POS=(12,32),LENGTH=20,ATTRB=(UNPROT,FSET),             *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(12,53),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+ADDR2    DFHMDF POS=(13,32),LENGTH=20,ATTRB=(UNPROT,FSET),             *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(13,53),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(15,23),LENGTH=8,INITIAL='STATUS :',               *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+STAT     DFHMDF POS=(15,32),LENGTH=1,ATTRB=(UNPROT,FSET),              *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(15,34),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(16,24),LENGTH=8,INITIAL='LIMIT :',                *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=YELLOW
+CRLIMIT  DFHMDF POS=(16,32),LENGTH=8,ATTRB=(UNPROT,FSET,NUM),          *
+               HILIGHT=UNDERLINE,COLOR=NEUTRAL
+         DFHMDF POS=(16,41),LENGTH=1,ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+MSG      DFHMDF POS=(21,20),LENGTH=40,ATTRB=(ASKIP,NORM)
+DCIA2MC  DFHMSD TYPE=FINAL
+                 END

@@ -1,0 +1,44 @@
+    SAMPLE, LAB 8
+                  EMPLOYEE SALARY REPORT - NON-GRADS                          PAGE : 01
+
+ EMP  EMP                             PRESENT  INCREASE      PAY         NEW         BUDGET      BUDGET
+ NUM  NAME           YEARS  POSITION  SALARY       %      INCREASE     SALARY        EST         DIFF
+ ---  ----           -----  --------  -------  --------   --------     ------        ------      ------
+
+ 004  ACHER WILLIAM     1             7,260.05              $0.00+  $  7,260.05  $  7,200.00      -60.05
+ 590  NEIL CLARENCE     7  JR PROG      650.09   3.7%      $24.05+  $    674.14  $  1,000.00      325.86
+ 801  SCHEIBER HARRY    1            10,000.00              $0.00+  $ 10,000.00  $ 10,000.00        0.00
+ 956  WANGLEY THEO      1             9,999.91              $0.00+  $  9,999.91  $ 10,000.00        0.09
+ 181  DELBERT EDWARD   12  PROG       6,590.13   6.7%     $441.54+  $  8,531.67  $  7,500.00   -1,031.67
+                          ******* NON-GRAD SALARY ADJUSTED BY $1500 ********
+                         ******* BUDGET DIFFERENCE GREATER THAN $500 *******                          
+
+ 
+ 311  GROLER GRACE     23  PROG       6,430.20   6.7%     $430.82+  $  8,361.02  $  7,000.00   -1,361.02
+                          ******* NON-GRAD SALARY ADJUSTED BY $1500 ********
+                          ******* BUDGET DIFFERENCE GREATER THAN $500 *******                         
+ 487  KING MILDRED     18  PROG       9,199.63   6.7%     $616.38+  $ 11,316.01  $ 11,000.00     -316.01
+                          ******* NON-GRAD SALARY ADJUSTED BY $1500 ********
+
+ .
+ .
+ . A TOTAL OF 15 ON THIS PAGE, 3 GROUPS WITH 5 PER GROUP
+ .
+
+                                      Highest RAISES THIS PAGE:  $$$,$$9.99
+    SAMPLE, LAB 8
+                  EMPLOYEE SALARY REPORT - NON-GRADS                          PAGE : 02
+
+ EMP  EMP                             PRESENT  INCREASE      PAY         NEW         BUDGET      BUDGET
+ NUM  NAME           YEARS  POSITION  SALARY       %      INCREASE     SALARY        EST         DIFF
+ ---  ----           -----  --------  -------  --------   --------     ------        ------      ------
+
+ . 3 groups with 5 in a group continues on this page....
+ 
+
+                                      RAISES THIS PAGE:  $$$,$$9.99
+
+
+ AVERAGE INCREASES:                         PROG=      ZZ,ZZ9.99     JR PROG=   ZZ,ZZ9.99
+
+ TOTAL NON-GRAD BUDGET DIFFERENCE: $ZZ,ZZ9.99-

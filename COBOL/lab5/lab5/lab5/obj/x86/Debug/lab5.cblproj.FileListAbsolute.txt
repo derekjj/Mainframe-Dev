@@ -1,0 +1,3 @@
+C:\Dropbox\private\School\Winter2016\Man\lab5\lab5\lab5\bin\x86\Debug\lab5.exe
+C:\Dropbox\private\School\Winter2016\Man\lab5\lab5\lab5\obj\x86\Debug\lab5.cblprojResolveAssemblyReference.cache
+C:\Dropbox\private\School\Winter2016\Man\lab5\lab5\lab5\obj\x86\Debug\lab5.exe

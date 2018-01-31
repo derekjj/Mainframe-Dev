@@ -1,0 +1,42 @@
+  Derek Johnston, lab 9             160403     12493824
+
+                    call centre volumes for july - december
+
+  operator  operator      jul    aug    sep    oct    nov    dec    total    avg    rem
+     #        name
+
+    A12      JOHN         100    129     88     92    111     74     594       99    0
+
+    A14      ANNE          92    114    112     77    121     80     596       99    2
+
+    B10      ADAM           0      0      0      0      0      0       0     ZERO
+
+    B12      JOANNE       104    129     88     92      0      0     413      103    1
+
+    B13      LEE          119    104     80     95    131     74     603      101    3
+
+    B14      MARGARET      90      0      0      0    120    121     331      110    1
+
+    C09      SAM          102    102    129    120     99     98     650      108    2
+
+    C11      JOHNNY        88     87     43      0      0     50     268       67    0
+
+    C13      HELEN        130    131    140    112    125    126     764      127    2
+
+    C17      DOMINIC       99    100     99     99     99     99     595       99    1
+
+    C19      GERRY        120    118    120    110    110     94     672      112    0
+
+    C21      EARL         114      0    129      0    130    130     503      126    3
+
+    C22      AMANDA         0      0      0      0      0      0       0     ZERO
+
+    C23      GEORGE         0      0      0      0      0      0       0     ZERO
+
+    C25      MELISSA      134    130    101    121     98    134     718      120    4
+
+    C27      JIM           65      0     45     67     87    100     364       73    4
+
+      number of operators with no calls:  3
+
+      overall total calls:                7071

@@ -1,0 +1,22 @@
+    SAMPLE, LAB 6                                                                    141018     10085342
+
+                                           NON-GRADUATE SALARY REPORT                                    PAGE  1
+
+ EMP      EMP                              PRESENT   INCREASE    PAY           NEW          BUDGET      BUDGET
+ NUM      NAME           YRS  POSITION     SALARY       %        INCREASE      SALARY        EST         DIFF
+ ---      ----           ---  --------     -------   --------    --------      ------       ------      ------
+ 004  ACHER WILLIAM        1                7,260.05                 $0.00+  $  7,260.05  $  7,200.00     -60.05
+ 590  NEIL CLARENCE        7  JR PROG         650.09     3.7%       $24.05+  $    674.14  $  1,000.00     325.86
+ 801  SCHEIBER HARRY       1               10,000.00                 $0.00+  $ 10,000.00  $ 10,000.00       0.00
+ 956  WANGLEY THEO         1                9,999.91                 $0.00+  $  9,999.91  $ 10,000.00       0.09
+ ---
+ ---
+ ---
+ ---          20 LINES PER PAGE
+ ---
+ ---
+ 315  HALE ALAN           12  PROG         40,000.16     6.7%    $2,680.01+  $ 42,680.17  $ 45,000.00   2,319.83
+
+ AVERAGE GRAD INCREASES:   PROG    =    ZZ,ZZ9.99   JR PROG  =    ZZ,ZZ9.99
+
+ TOTAL GRAD BUDGET DIFFERENCE:  $ZZ,ZZ9.99-

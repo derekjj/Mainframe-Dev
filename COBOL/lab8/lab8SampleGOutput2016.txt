@@ -1,0 +1,43 @@
+     SAMPLE, LAB 8
+
+                             GRADUATES SALARY REPORT                         PAGE  1
+
+ EMP  EMP                              PRESENT  INCREASE     PAY       NEW        BUDGET          BUDGET
+ NUM  NAME             YRS  POSITION    SALARY      %     INCREASE    SALARY                       DIFF
+ 030  ALLDREN RUTH     21  ANALYST   20,200.00  12.7%    $2,565.40+  $ 22,765.40  $ 22,000.00       $765.40-
+                         ******* BUDGET DIFFERENCE GREATER THAN $500 *******
+ 185  DONNEMAN THOMAS   6  PROG       4,230.09   7.7%      $325.72+  $  4,555.81  $  4,600.00        $44.19
+ 325  HATFIELD MARK     1            11,220.02               $0.00+  $ 11,220.02  $ 11,000.00       $220.02-
+ 730  REEDE OWEN        9  SEN PROG   5,550.10  10.3%      $571.66+  $  6,121.76  $  6,200.00        $78.24
+ 111  CARTOLER VIOLET   2             9,980.07               $0.00+  $  9,980.07  $ 10,000.00        $19.93
+
+
+ 999  BAKER RON         3  PROG      30,000.14   7.7%    $2,310.01+  $ 32,310.15  $ 35,000.00     $2,689.85
+                         ******* BUDGET DIFFERENCE GREATER THAN $500 *******
+ .
+ .
+ . A TOTAL OF 15 ON THIS PAGE, 3 GROUPS WITH 5 PER GROUP
+ .
+
+                                      RAISES THIS PAGE:  $$$,$$9.99
+                                           SAMPLE, LAB 8
+
+                             GRADUATES SALARY REPORT                         PAGE  2
+
+ EMP  EMP                              PRESENT  INCREASE     PAY       NEW        BUDGET          BUDGET
+ NUM  NAME             YRS  POSITION    SALARY      %     INCREASE    SALARY                       DIFF
+ .
+ .
+ .
+ . 3 groups with 5 in a group continues on this page....
+ 
+
+                                      RAISES THIS PAGE:  $$$,$$9.99
+
+ AVERAGE INCREASES:   ANALYST=    Z,ZZ9.99  SEN PROG=   Z,ZZ9.99
+
+                      PROG=       Z,ZZ9.99
+
+TOTAL GRAD BUDGET DIFFERENCE: $  Z,ZZ9.99
+
+TOTAL AVERAGE RAISES: $  Z,ZZ9.99

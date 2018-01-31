@@ -1,0 +1,33 @@
+     SAMPLE, LAB 6                    141017     13554412
+
+                  EMPLOYEE SALARY REPORT                          PAGE  1
+
+ EMP  EMP                            PRESENT  INCREASE      PAY         NEW
+ NUM  NAME          YEARS  POSITION  SALARY       %      INCREASE     SALARY
+ 
+ 030  ALLDREN RUTH     21  ANALYST   20,200.00  11.9%   $2,403.80+  $ 22,603.80
+ 
+ 185  DONNEMAN THOMAS   6  PROG       4,230.09   6.7%     $283.42+  $  4,513.51
+ 
+ 004  ACHER WILLIAM     1             7,260.05              $0.00+  $  7,260.05
+ 
+ 325  HATFIELD MARK     1            11,220.02              $0.00+  $ 11,220.02
+ 
+ 730  REEDE OWEN        9  SEN PROG   5,550.10   9.3%     $516.16+  $  6,066.26
+ 
+ 111  CARTOLER VIOLET   2             9,980.07              $0.00+  $  9,980.07
+ 
+ 590  NEIL CLARENCE     7  JR PROG      650.09   3.7%      $24.05+  $    674.14
+ 
+ 801  SCHEIBER HARRY    1            10,000.00              $0.00+  $ 10,000.00
+ 
+ 956  WANGLEY THEO      1             9,999.91              $0.00+  $  9,999.91
+ 
+ ------------------- lots more output lines here ------------------
+
+ 215  EDSON WILBUR      6  PROG      70,500.08   6.7%   $4,723.51+  $ 75,223.59
+ 
+ 315  HALE ALAN        12  PROG      40,000.16   6.7%   $2,680.01+  $ 42,680.17
+ 
+ AVERAGE INCREASES:   ANALYST=   99,999.99     SEN PROG= 99,999.99  	
+                      PROG=   	 99,999.99     JR PROG=  99,999.99  

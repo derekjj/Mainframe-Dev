@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "Lab1-Contact-Information", "Lab1-Contact-Information\Lab1-Contact-Information.cblproj", "{B9716EE7-0CA1-422C-9F3A-63541DD6E8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9716EE7-0CA1-422C-9F3A-63541DD6E8B0}.Debug|x86.ActiveCfg = Debug|x86
+		{B9716EE7-0CA1-422C-9F3A-63541DD6E8B0}.Debug|x86.Build.0 = Debug|x86
+		{B9716EE7-0CA1-422C-9F3A-63541DD6E8B0}.Release|x86.ActiveCfg = Release|x86
+		{B9716EE7-0CA1-422C-9F3A-63541DD6E8B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

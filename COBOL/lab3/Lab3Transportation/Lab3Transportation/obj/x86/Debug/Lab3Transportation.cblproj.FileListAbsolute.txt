@@ -1,0 +1,3 @@
+C:\Dropbox\private\School\Winter2016\Man\lab3\Lab3Transportation\Lab3Transportation\bin\x86\Debug\Lab3Transportation.exe
+C:\Dropbox\private\School\Winter2016\Man\lab3\Lab3Transportation\Lab3Transportation\obj\x86\Debug\Lab3Transportation.cblprojResolveAssemblyReference.cache
+C:\Dropbox\private\School\Winter2016\Man\lab3\Lab3Transportation\Lab3Transportation\obj\x86\Debug\Lab3Transportation.exe

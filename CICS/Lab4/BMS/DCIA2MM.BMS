@@ -1,0 +1,38 @@
+DCIA2MM  DFHMSD TYPE=&SYSPARM,MODE=INOUT,TERM=ALL,                     *
+               LANG=COBOL,TIOAPFX=YES,CTRL=FREEKB,                     *
+               MAPATTS=(COLOR,HILIGHT),DSATTS=(COLOR,HILIGHT)
+MENU     DFHMDI SIZE=(24,80),LINE=1,COLUMN=1
+         DFHMDF POS=(3,16),LENGTH=48,                                  *
+               INITIAL='C R E D I T   A C C O U N T   M A I N    M E N *
+               U',                                                     *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+         DFHMDF POS=(4,16),LENGTH=48,                                  *
+               INITIAL='===============================================*
+               =',                                                     *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+         DFHMDF POS=(7,24),LENGTH=28,                                  *
+               INITIAL='CHOICE 1 - ENTER NEW ACCOUNT',                 *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=BLUE
+         DFHMDF POS=(9,24),LENGTH=36,                                  *
+               INITIAL='CHOICE 2 - INQUIRE BY ACCOUNT NUMBER',         *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=BLUE
+         DFHMDF POS=(11,24),LENGTH=44,                                 *
+               INITIAL='CHOICE 3 - CHANGE OR DELETE EXISTING ACCOUNT', *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=BLUE
+         DFHMDF POS=(13,24),LENGTH=40,                                 *
+               INITIAL='CHOICE 4 - SEARCH BY ACCOUNT HOLDER NAME',     *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=BLUE
+         DFHMDF POS=(15,24),LENGTH=27,                                 *
+               INITIAL='CHOICE 9 - EXIT THIS SCREEN',                  *
+               ATTRB=(ASKIP,NORM),HILIGHT=OFF,COLOR=BLUE
+         DFHMDF POS=(17,24),LENGTH=25,                                 *
+               INITIAL='ENTER YOUR CHOICE HERE  :',                    *
+               ATTRB=(ASKIP,NORM),COLOR=NEUTRAL
+***********************************************************************
+CHOICE   DFHMDF POS=(17,50),LENGTH=1,ATTRB=(UNPROT,IC),HILIGHT=OFF,    *
+               COLOR=NEUTRAL
+         DFHMDF POS=(17,52),LENGTH=1,ATTRB=(ASKIP,NORM)
+MSG      DFHMDF POS=(21,20),LENGTH=40,ATTRB=(ASKIP,NORM)
+DCIA2MM  DFHMSD TYPE=FINAL
+                 END

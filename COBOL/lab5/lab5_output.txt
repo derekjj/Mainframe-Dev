@@ -1,0 +1,40 @@
+
+     YOUR NAME, LAB 5             160205                          1129006
+
+                            SALES COMMISSION REPORT
+
+  NO. NAME      SALES  MIN   MAX   RATE   EARNED    PAID   COMMENTS
+  --- ----      -----  ---   ---   ----   ------    ----   --------
+
+  10  JIM       4,000  300    600   10%      400   $**400
+  12  BETH      5,000  500  1,000   20%    1,000   $1,000
+  21  TOM       6,000  500  1,325   20%    1,325   $1,325
+  30  SALLY       207   50    100   20%       41   $***50  EARNED UNDER MIN
+  31  GERRY     7,999  600    700    5%      775   $**700  EARNED OVER MAX
+  39  CINDY     3,751  400    600   19%      713   $**713
+  
+	-------------- 4 MORE ON THIS PAGE ------------
+
+
+     YOUR NAME, LAB 5             160205                          1129006
+
+                            SALES COMMISSION REPORT
+
+  NO. NAME      SALES  MIN   MAX   RATE   EARNED    PAID   COMMENTS
+  --- ----      -----  ---   ---   ----   ------    ----   --------
+  
+  61  WANDA     9,006  800  1,000    8%    1,221   $1,000  EARNED OVER MAX
+  
+	----------- A TOTAL OF 10 LINES ON EACH PAGE -----------
+
+
+                            TOTALS       $99,999  $99,999
+
+  NUMBER WITH BONUS & PAID THE MAXIMUM    :   99
+  NUMBER WITH NO BONUS & PAID THE MINIMUM :   99
+
+  PERCENTAGE OF PEOPLE PAID WHAT THEY EARNED :  99%
+
+  PERCENT >   $5000 :  99.99%
+  PERCENT <=  $5000 :  99.99%
+

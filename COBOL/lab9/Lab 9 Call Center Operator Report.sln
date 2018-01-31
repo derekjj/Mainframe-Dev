@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "Lab 9 Call Center Operator Report", "Lab 9 Call Center Operator Report\Lab 9 Call Center Operator Report.cblproj", "{74F94A0E-333C-4D78-8107-6F038AA4C26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F94A0E-333C-4D78-8107-6F038AA4C26D}.Debug|x86.ActiveCfg = Debug|x86
+		{74F94A0E-333C-4D78-8107-6F038AA4C26D}.Debug|x86.Build.0 = Debug|x86
+		{74F94A0E-333C-4D78-8107-6F038AA4C26D}.Release|x86.ActiveCfg = Release|x86
+		{74F94A0E-333C-4D78-8107-6F038AA4C26D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
